@@ -17,6 +17,8 @@ Content-Transfer-Encoding: 7bit
 sudo bash
 yum update -y
 yum install python3 -y
-echo "Hello World !" >index.html
+rm index.html
+wget https://raw.githubusercontent.com/bansalsuresh/aws/master/index.html
 python3 -m http.server 8888 &
 --//
+
