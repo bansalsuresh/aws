@@ -1,0 +1,33 @@
+ * Tip: There are .env files present. Do "pip install python-dotenv" to use them.
+ * Serving Flask app "webpage.py"
+ * Environment: production
+   WARNING: Do not use the development server in a production environment.
+   Use a production WSGI server instead.
+ * Debug mode: off
+ * Running on http://0.0.0.0:8888/ (Press CTRL+C to quit)
+123.201.100.214 - - [13/Mar/2019 00:06:27] "GET /uc HTTP/1.1" 200 -
+123.201.100.214 - - [13/Mar/2019 00:06:33] "GET / HTTP/1.1" 200 -
+123.201.100.214 - - [13/Mar/2019 00:06:35] "GET /login HTTP/1.1" 200 -
+ * Tip: There are .env files present. Do "pip install python-dotenv" to use them.
+ * Serving Flask app "webpage.py"
+ * Environment: production
+   WARNING: Do not use the development server in a production environment.
+   Use a production WSGI server instead.
+ * Debug mode: off
+ * Running on http://0.0.0.0:8888/ (Press CTRL+C to quit)
+115.110.197.138 - - [15/Mar/2019 10:06:57] "GET / HTTP/1.1" 200 -
+115.110.197.138 - - [15/Mar/2019 10:06:57] "GET /favicon.ico HTTP/1.1" 404 -
+115.110.197.138 - - [15/Mar/2019 10:07:07] "GET / HTTP/1.1" 200 -
+115.110.197.138 - - [15/Mar/2019 10:07:18] "GET / HTTP/1.1" 200 -
+115.110.197.138 - - [15/Mar/2019 10:07:28] "GET / HTTP/1.1" 200 -
+115.110.197.138 - - [15/Mar/2019 10:07:38] "GET / HTTP/1.1" 200 -
+115.110.197.138 - - [15/Mar/2019 10:07:48] "GET / HTTP/1.1" 200 -
+115.110.197.138 - - [15/Mar/2019 10:07:58] "GET / HTTP/1.1" 200 -
+115.110.197.138 - - [15/Mar/2019 10:08:08] "GET / HTTP/1.1" 200 -
+115.110.197.138 - - [15/Mar/2019 10:08:19] "GET / HTTP/1.1" 200 -
+115.110.197.138 - - [15/Mar/2019 10:08:29] "GET / HTTP/1.1" 200 -
+115.110.197.138 - - [15/Mar/2019 10:08:39] "GET / HTTP/1.1" 200 -
+115.110.197.138 - - [15/Mar/2019 10:08:49] "GET / HTTP/1.1" 200 -
+115.110.197.138 - - [15/Mar/2019 10:08:59] "GET / HTTP/1.1" 200 -
+115.110.197.138 - - [15/Mar/2019 10:09:09] "GET / HTTP/1.1" 200 -
+115.110.197.138 - - [15/Mar/2019 10:09:20] "GET / HTTP/1.1" 200 -
